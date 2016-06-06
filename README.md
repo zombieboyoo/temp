@@ -1,5 +1,3 @@
-# tst
+# temp
 
-tst
-
-add some more comments here for tsting.
+This is a temporary repository for testing for dumping raw data.
